@@ -31,3 +31,11 @@ A real-time hand gesture-based mouse controller using Python, OpenCV, and MediaP
    ```bash
    git clone https://github.com/shayan-sethi/hand-tracking-mouse.git
    cd hand-tracking-mouse
+2. Install dependencies:
+   ```bash
+   pip install opencv-python mediapipe pyautogui
+## Usage
+
+Run the Python script:
+```bash
+python mouse.py
