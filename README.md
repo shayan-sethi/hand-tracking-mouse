@@ -25,7 +25,7 @@ A real-time hand gesture-based mouse controller using Python, OpenCV, and MediaP
 
 ---
 
-## 📦 Installation
+##  Installation
 
 1. Clone the repository:
    ```bash
