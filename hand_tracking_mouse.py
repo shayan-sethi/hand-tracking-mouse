@@ -52,7 +52,7 @@ while True:
 
     cv2.imshow("hand", image)
     key = cv2.waitKey(1)
-    if key == 27:
+    if key == 27: #Press Esc Key to break loop
         break
 
     time.sleep(0.01)
