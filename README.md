@@ -38,4 +38,4 @@ A real-time hand gesture-based mouse controller using Python, OpenCV, and MediaP
 
 Run the Python script:
 ```bash
-python mouse.py
+python hand_tracking_mouse.py
